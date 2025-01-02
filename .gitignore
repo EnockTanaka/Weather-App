@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### IntelliJ ###
+.idea/
+
+src/main/resources/application.properties
